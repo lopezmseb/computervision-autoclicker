@@ -1,5 +1,5 @@
 # python-autoclicker
-AutoClicker using OpenCV. Written in Python.
+AutoClicker using OpenCV. Mostly meant for clicker and/or idle games, but can be used to fulfill anything that requires multiple clicks. Learning Project. Written in Python. 
 # Instructions and Tips
 #### General
 1. Hold "q" to pause.
