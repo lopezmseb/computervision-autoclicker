@@ -11,7 +11,7 @@ class AutoClicker:
     START_TEXT = "Click on the AutoClicker you'd like to use:"
 
     def __init__(self):
-        self.confidence = 0
+        self.confidence = 0.5
         choice = gui.confirm(self.START_TEXT, title="AutoClicker", buttons=["Continuously Click", "Find Image Clicker"])
         #Choose Clicker
         if(choice == "Continuously Click"):
